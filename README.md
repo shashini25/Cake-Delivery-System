@@ -1,0 +1,2 @@
+# Cake-Delivery-System
+A user-friendly web application for browsing, customizing, and ordering cakes online. Features include user registration, cake catalog, real-time order tracking, cart and checkout system, and admin panel for managing orders and inventory. Built to streamline the online cake ordering experience with responsive design and secure payment integration.
